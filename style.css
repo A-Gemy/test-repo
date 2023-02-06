@@ -18,3 +18,9 @@ p::first-letter {
   padding-right: 10px;
   color: rebeccapurple;
 }
+.para {
+  padding: 25px;
+  line-height: 1.5;
+  border: 3px salmon solid;
+  border-radius: 20px;
+}
